@@ -20,12 +20,13 @@ $(function() {
     //     ],
     //     animal: [
     //         "dog",
-    //         "cat",
-    //         "rabbit"
+    //         "dinosaur",
+    //         
+    //         
     //     ],
     //     color: [
-    //         "red",
-    //         "blue",
+    //         "PURPLE",
+    //         "EXE",
     //         "green",
     //         "yellow"
     //     ]
